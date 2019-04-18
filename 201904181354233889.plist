@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://yy.qp777.com/apple/sjqp_ios.ipa?data=20170330</string>
+					<string>http://850app.oss-cn-shenzhen.aliyuncs.com/bao/201904181354224046.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.20170329.qp</string>
+				<string>HYBWallet</string>
 				<key>bundle-version</key>
-				<string>1.71</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>QPGame-mobile</string>
+				<string>HYBWallet App 正在安装中…</string>
 			</dict>
 		</dict>
 	</array>
